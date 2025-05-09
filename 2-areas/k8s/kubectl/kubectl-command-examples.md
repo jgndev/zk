@@ -38,4 +38,10 @@ kubectl apply -f pod.yaml
 ```
 
 
+Make a specific namespace your default
 
+```bash
+kubectl config set-context $(kubectl config current-context) --namespace=dev
+
+kubectl get pod # lists pods in the namespace dev
+```
