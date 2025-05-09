@@ -170,6 +170,9 @@
   },
   "active": "e2549ff7c2a08eb0",
   "lastOpenFiles": [
+    "books/summary",
+    "books/notes",
+    "books",
     "k8s/common-commands.md",
     "k8s/Untitled",
     "k8s/ckad"
