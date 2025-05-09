@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/webdev-links.md",
+                "file": "3-resources/terraform-links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "webdev-links"
+              "title": "terraform-links"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/webdev-links.md",
+                "file": "3-resources/terraform-links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for webdev-links"
+              "title": "Backlinks for terraform-links"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/webdev-links.md",
+                "file": "3-resources/terraform-links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from webdev-links"
+              "title": "Outgoing links from terraform-links"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/webdev-links.md",
+                "file": "3-resources/terraform-links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of webdev-links"
+              "title": "Outline of terraform-links"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "053807e48a6340a3",
   "lastOpenFiles": [
+    "3-resources/webdev-links.md",
+    "3-resources/terraform-links.md",
     "3-resources/good-tools.md",
     "3-resources/security-links.md",
     "3-resources/networking-links.md",
-    "3-resources/webdev-links.md",
     "3-resources/humor-links.md",
     "3-resources/k8s-links.md",
     "3-resources/linux-links.md",
