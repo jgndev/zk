@@ -1,14 +1,8 @@
 
-## Projects
-
-
-## Areas
-
-
-## Resources
-
-
-## Archive
+Projects
+Areas
+Resources
+Archive
 
 
 

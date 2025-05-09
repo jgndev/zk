@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "para"
             }
+          },
+          {
+            "id": "053807e48a6340a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/webdev-links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "webdev-links"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/para.md",
+                "file": "3-resources/webdev-links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for para"
+              "title": "Backlinks for webdev-links"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/para.md",
+                "file": "3-resources/webdev-links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from para"
+              "title": "Outgoing links from webdev-links"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/para.md",
+                "file": "3-resources/webdev-links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of para"
+              "title": "Outline of webdev-links"
             }
           }
         ]
@@ -168,21 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9c032128d109fb",
+  "active": "053807e48a6340a3",
   "lastOpenFiles": [
+    "3-resources/good-tools.md",
+    "3-resources/security-links.md",
+    "3-resources/networking-links.md",
+    "3-resources/webdev-links.md",
+    "3-resources/humor-links.md",
+    "3-resources/k8s-links.md",
+    "3-resources/linux-links.md",
+    "0-inbox/test-new-note.md",
+    "0-inbox/para.md",
     "4-archive",
     "3-resources",
     "2-areas",
     "1-projects",
     "2-areas/k8s/kubectl/kubectl-command-examples.md",
-    "0-inbox/para.md",
     "0-inbox",
     "2-areas/k8s/core/yaml-definition-file-structure.md",
     "2-areas/k8s/kubectl",
     "2-areas/k8s/core",
     "2-areas/books/summary",
     "2-areas/books/notes",
-    "2-areas/books",
-    "2-areas/k8s/ckad"
+    "2-areas/books"
   ]
 }
