@@ -1,4 +1,10 @@
-
+---
+tags:
+  - links
+  - kubernetes
+  - k8s
+date: 2025-05-09
+---
 ## Kuberentes General
 https://kubernetes.io/docs/concepts/architecture/
 

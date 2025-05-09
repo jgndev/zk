@@ -1,3 +1,0 @@
-
-## Drawing
-https://excalidraw.com/

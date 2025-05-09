@@ -1,3 +1,9 @@
+---
+tags:
+  - links
+  - security
+date: 2025-05-09
+---
 
 ## Attacks
 https://en.wikipedia.org/wiki/Timing_attack
