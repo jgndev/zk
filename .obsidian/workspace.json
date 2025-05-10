@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/links/linux.md",
+                "file": "3-resources/links/go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux"
+              "title": "go"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/links/linux.md",
+                "file": "3-resources/links/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for linux"
+              "title": "Backlinks for go"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/links/linux.md",
+                "file": "3-resources/links/go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from linux"
+              "title": "Outgoing links from go"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/links/linux.md",
+                "file": "3-resources/links/go.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linux"
+              "title": "Outline of go"
             }
           }
         ]
@@ -168,17 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9c032128d109fb",
+  "active": "e2549ff7c2a08eb0",
   "lastOpenFiles": [
+    "3-resources/links/jobsearch.md",
+    "3-resources/links/go.md",
+    "3-resources/links/skillup.md",
+    "3-resources/links/networking.md",
+    "3-resources/links/blogs.md",
+    "3-resources/links/k8s.md",
+    "3-resources/links/books.md",
+    "3-resources/links/github-profiles.md",
+    "3-resources/links/humor.md",
+    "3-resources/links/fishing.md",
+    "3-resources/links/dogs.md",
+    "3-resources/links/horses.md",
+    "3-resources/links/farm.md",
+    "3-resources/links/linux.md",
     "3-resources/links/good-tools.md",
     "3-resources/links/webdev.md",
     "3-resources/links",
     "3-resources/links/terraform.md",
     "3-resources/links/security.md",
-    "3-resources/links/networking.md",
-    "3-resources/links/linux.md",
-    "3-resources/links/k8s.md",
-    "3-resources/links/humor.md",
     "2-areas/k8s/kubectl/kubectl-command-examples.md",
     "1-projects/ckad",
     "1-projects/az-400",
