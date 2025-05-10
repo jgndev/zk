@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/links/time.md",
+                "file": "1-projects/portfolio/todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "time"
+              "title": "todo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/links/time.md",
+                "file": "1-projects/portfolio/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for time"
+              "title": "Backlinks for todo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/links/time.md",
+                "file": "1-projects/portfolio/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from time"
+              "title": "Outgoing links from todo"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/links/time.md",
+                "file": "1-projects/portfolio/todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of time"
+              "title": "Outline of todo"
             }
           }
         ]
@@ -168,10 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2549ff7c2a08eb0",
+  "active": "6a9c032128d109fb",
   "lastOpenFiles": [
-    "3-resources/links/branding.md",
+    "0-inbox/backlog",
     "3-resources/links/time.md",
+    "1-projects/portfolio/todo.md",
+    "1-projects/portfolio/Untitled",
+    "1-projects/portfolio",
+    "3-resources/links/branding.md",
     "3-resources/links/dogs.md",
     "3-resources/links/go.md",
     "3-resources/links/jobsearch.md",
@@ -201,9 +205,6 @@
     "4-archive",
     "3-resources",
     "2-areas",
-    "1-projects",
-    "0-inbox",
-    "2-areas/k8s/core/yaml-definition-file-structure.md",
-    "2-areas/k8s/kubectl"
+    "1-projects"
   ]
 }
