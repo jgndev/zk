@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/azure/Cloud Shell.md",
+                "file": "2-areas/linux/The Unix Way.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Shell"
+              "title": "The Unix Way"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/azure/Cloud Shell.md",
+                "file": "2-areas/linux/The Unix Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloud Shell"
+              "title": "Backlinks for The Unix Way"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/azure/Cloud Shell.md",
+                "file": "2-areas/linux/The Unix Way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cloud Shell"
+              "title": "Outgoing links from The Unix Way"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/azure/Cloud Shell.md",
+                "file": "2-areas/linux/The Unix Way.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Shell"
+              "title": "Outline of The Unix Way"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2549ff7c2a08eb0",
+  "active": "6a9c032128d109fb",
   "lastOpenFiles": [
-    "0-inbox/Cloud Drive.md",
     "2-areas/azure/Cloud Shell.md",
+    "2-areas/linux/The Unix Way.md",
+    "0-inbox/Cloud Drive.md",
     "2-areas/azure/PowerShell.md",
     "2-areas/linux/Bash.md",
     "2-areas/azure/Cloud Storage.md",
@@ -198,7 +199,6 @@
     "3-resources/links/fishing.md",
     "3-resources/links/horses.md",
     "3-resources/links/linux.md",
-    "3-resources/links/good-tools.md",
     "3-resources/links",
     "1-projects/ckad",
     "1-projects/az-400",
