@@ -60,3 +60,12 @@ Coursera, Completed May 2022
 Self-Directed Learning
 - Online courses in Python (Coursera) and Kubernetes (Udemy), 2023-2024.
 ```
+
+
+Things that help with ATS.
+
+- No special characters. Use hyphens for bullets and simple line breaks to avoid parsing errors.
+- Keyword rich. Repeat terms that call out important skills that match the job description. Examples "Azure", "AWS", "CI/CD", "Go".
+- Standard headings. Clear sections like "Work Experience", "Skills".
+- Minimal formatting. Plain text should help ensure universal compatibility with ATS.
+- Full spelling. Include both full names and acronyms. "AWS Certified Solutions Architect - Associate"

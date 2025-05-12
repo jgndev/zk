@@ -106,3 +106,10 @@ This example template assumes you do not have a college degree. If you do have a
 </body>
 </html>
 ```
+
+Things that help with ATS.
+
+- Clean structure. Use semantic HTML that ATS can parse when copied into text fields.
+- No complex styling. Minimal CSS, basic fonts and margins ensures content remains intact when stripped to plain text.
+- Avoid special characters that can be parse incorrectly like "•" characters, images or non-standard fonts.
+- Test with ATS resume checkers. Jobscan, Resunate to verify keyword matches and readability.

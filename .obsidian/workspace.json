@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/resume/ATS Friendly Resume - TXT.md",
+                "file": "2-areas/azure/Management Plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATS Friendly Resume - TXT"
+              "title": "Management Plane"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/resume/ATS Friendly Resume - TXT.md",
+                "file": "2-areas/azure/Management Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ATS Friendly Resume - TXT"
+              "title": "Backlinks for Management Plane"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/resume/ATS Friendly Resume - TXT.md",
+                "file": "2-areas/azure/Management Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ATS Friendly Resume - TXT"
+              "title": "Outgoing links from Management Plane"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/resume/ATS Friendly Resume - TXT.md",
+                "file": "2-areas/azure/Management Plane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ATS Friendly Resume - TXT"
+              "title": "Outline of Management Plane"
             }
           }
         ]
@@ -170,6 +170,15 @@
   },
   "active": "e2549ff7c2a08eb0",
   "lastOpenFiles": [
+    "2-areas/azure/Azure Security Center.md",
+    "2-areas/azure/Management Plane.md",
+    "2-areas/azure/Azure Monitor.md",
+    "2-areas/azure/Control Plane.md",
+    "2-areas/azure/Azure Policy.md",
+    "2-areas/azure/Data Plane.md",
+    "2-areas/azure/Role Based Access Control.md",
+    "2-areas/azure/Entra ID.md",
+    "2-areas/azure/Azure Resource Manager.md",
     "2-areas/resume/ATS Friendly Resume - HTML.md",
     "2-areas/resume/ATS Friendly Resume - TXT.md",
     "2-areas/linux/The Unix Way.md",
@@ -180,7 +189,6 @@
     "2-areas/linux/Bash.md",
     "2-areas/azure/Cloud Storage.md",
     "2-areas/azure/Contoso.md",
-    "1-projects/az-104/entra-id.md",
     "3-resources/links/webdev.md",
     "3-resources/links/go.md",
     "3-resources/links/farm.md",
@@ -192,14 +200,6 @@
     "3-resources/links/branding.md",
     "3-resources/links/dogs.md",
     "3-resources/links/jobsearch.md",
-    "3-resources/links/skillup.md",
-    "3-resources/links/networking.md",
-    "3-resources/links/blogs.md",
-    "3-resources/links/k8s.md",
-    "3-resources/links/books.md",
-    "3-resources/links/github-profiles.md",
-    "3-resources/links/humor.md",
-    "3-resources/links/fishing.md",
     "3-resources/links",
     "1-projects/ckad",
     "1-projects/az-400",
